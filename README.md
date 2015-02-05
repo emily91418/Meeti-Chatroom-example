@@ -6,10 +6,10 @@ Chat Room Example - The Usage of MeetiFramework
 # About Meeti-iOS
 https://github.com/MOBAGEL/MeetiFramework
 
-# Web to apply for testing account for Meeti
+# Web to Apply for Testing Account for Meeti
 http://meeti.mobagel.com
 
-# Development Notice    
+# Notice of Development    
 1.Please enter APP ID and APP SecretKey when using this framework in AppDelegate.m  
 2.The default group id is provided in AppDelegate.h   
 
